@@ -43,7 +43,7 @@ Performed EDA and Model Training
 
 Results of the Model Being Trained(Before and after Feature Selection)
 
-      Before Feature selection
+Before Feature selection
 
       1 .Before Hyperparameter Tuning
       
